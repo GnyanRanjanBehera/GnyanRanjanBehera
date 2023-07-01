@@ -24,6 +24,6 @@
 ## Contact Me
 
 <p float="left">
- <a href="https://www.linkedin.com/in/gnyan_ranjan_behera/">
+ <a href="https://www.linkedin.com/in/gnyan-ranjan-behera/">
   <img align="bottom" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
