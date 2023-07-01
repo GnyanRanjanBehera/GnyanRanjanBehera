@@ -11,14 +11,19 @@
   <img align="center" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />&nbsp;
   <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=whitehttps://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;
     <img align="center" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />&nbsp;
-  
-</a>
-  
+</a>  
 </p>
 
 
 ## Skills
-
 - 💻 Flutter (Dart, Provider, Getx, Riverpod,http,Dio)
 - ⌨️ Java (Spring Boot)
 - 🗃️ SQL
+
+####
+## Contact Me
+
+<p float="left">
+ <a href="https://www.linkedin.com/in/gnyan_ranjan_behera/">
+  <img align="bottom" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</p>
