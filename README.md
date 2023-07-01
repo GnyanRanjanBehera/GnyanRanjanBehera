@@ -1,6 +1,6 @@
 ### Hi I'm Gnyan Ranjan Behera👋
  - 🔭 I’m currently working as Freelancer
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently learning Flutter and Spring Boot 
 - 💬 Ask me about Life & Technology
  
  ## ✍️ Languages,Frameworks ❤️
