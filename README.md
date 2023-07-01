@@ -27,7 +27,7 @@
 </a>
  &nbsp;
 <a href="">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnyan-Coder&langs_count=8&hide=C++,makefile,javascript,html,css,C,c%2B%2B,swift,php,cmake,Objective-C)" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnyan-Coder&langs_count=8&hide=dart,makefile,javascript,html,css,Java,c%2B%2B,springboot,django,cmake,Objective-C)" />
 </a>
 &nbsp;
 </p>
