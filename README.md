@@ -25,6 +25,12 @@
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gnyan-Coder&show_icons=true&theme=radical" />
 </a>
+ &nbsp;
+<a href="">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnyan-Coder&langs_count=8&hide=C++,makefile,javascript,html,css,C,c%2B%2B,swift,php,cmake,Objective-C)" />
+</a>
+&nbsp;
+</p>
 
 ####
 ## Contact Me
