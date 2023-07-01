@@ -20,9 +20,14 @@
 - ⌨️ Java (Spring Boot)
 - 🗃️ SQL
 
+## Status 
+<p float="left">
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gnyan-Coder&show_icons=true&theme=radical" />
+</a>
+
 ####
 ## Contact Me
-
 <p float="left">
  <a href="https://www.linkedin.com/in/gnyan-ranjan-behera/">
   <img align="bottom" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
