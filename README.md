@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi I'm Gnyan Ranjan Behera👋
+ - 🔭 I’m currently working as Freelancer
+- 🌱 I’m currently learning Flutter 
+- 💬 Ask me about Life & Technology
+ 
+ ## ✍️ Languages,Frameworks ❤️
+ <p float="right">
+  
+ <a href="">
+  <img align="center" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;
+  <img align="center" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />&nbsp;
+  <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=whitehttps://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;
+    <img align="center" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />&nbsp;
+  
+</a>
+  
+</p>
 
-<!--
-**Gnyan-Coder/Gnyan-Coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Flutter (Dart, Provider, Getx, Riverpod,http,Dio)
+- ⌨️ Java (Spring Boot)
+- 🗃️ SQL
