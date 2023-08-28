@@ -19,7 +19,7 @@
 ## Skills
 - 💻 Flutter (Dart, Provider, Getx, Riverpod,http,Dio)
 - ⌨️ Java (Spring Boot)
-- 🗃️ SQL
+- 🗃️ SQL(MySQL)
 
 ## Status 
 <p float="left">
