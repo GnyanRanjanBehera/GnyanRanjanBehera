@@ -24,7 +24,7 @@
 ## Status 
 <p float="left">
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gnyan-Coder&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GnyanRanjanBehera&show_icons=true&theme=radical" />
 </a>
 </p>
 
