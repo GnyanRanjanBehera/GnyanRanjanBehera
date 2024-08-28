@@ -23,9 +23,9 @@
 
 ## Status 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GnyanRanjanBehera&show_icons=true&theme=radical" />
-</a>
+  <a href="">
+    <img src="https://github-readme-stats.vercel.app/api?username=GnyanRanjanBehera&show_icons=true&theme=radical" alt="Overall GitHub stats" />
+  </a>
   <a href="">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GnyanRanjanBehera&langs_count=8&hide=C++,makefile,javascript,html,css,C,c%2B%2B,swift,php,cmake,Objective-C,ruby,procfile,shell)" alt="Top Languages" />
   </a>
