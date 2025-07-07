@@ -18,7 +18,7 @@
 
 ## Skills
 - 💻 Flutter (Dart, Provider, Getx, Riverpod,http,Dio)
-- ⌨️ Java (Spring Boot)
+- ⌨️ Spring Boot (Java,JDBC,Hibernate,JWT,JPA,redis,JUnit,Mockito)
 - 🗃️ SQL(MySQL)
 
 ## Status 
